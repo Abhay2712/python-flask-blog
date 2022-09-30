@@ -28,7 +28,7 @@ all_posts = [
     },
     {
         'title': 'Post2',
-        'Content': 'This is the content of post 2',
+        'Content': 'This is the content of post 2. We will keep adding more content.',
         # 'Author': ''
     }
 ]
